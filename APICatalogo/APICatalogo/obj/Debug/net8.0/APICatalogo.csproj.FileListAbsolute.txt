@@ -106,3 +106,4 @@ D:\Programação\APIs da Web\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalog
 D:\Programação\APIs da Web\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
 D:\Programação\APIs da Web\APICatalogo\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
 D:\Programação\APIs da Web\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Programação\APIs da Web\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.sourcelink.json
